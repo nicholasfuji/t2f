@@ -2,15 +2,15 @@
 title: ERC
 tagline: HKIAPS
 author: ERC
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+email: 
+description: "" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: ""
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://yulijia.net/freshman21" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 locale: en_GB
 
 ### Personal info and site tools info:
-twitter_username: yulijia
+twitter_username: 
 github_username:  
 disqus_shortname: 
 favicon:     "/images/dost.jpg"
@@ -173,12 +173,12 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
+      - name: 
+        href: 
+        title: 
       - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
+        href: 
+        title: 
 
 
 ### Build settings
